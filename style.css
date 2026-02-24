@@ -50,3 +50,12 @@ p {
 em strong {
     color: #FF0000;
 }
+
+.titulo-pricipal{
+    padding-left: 20px;
+}
+
+.titulo-centrtalizado{
+    text-align: center;
+}
+
